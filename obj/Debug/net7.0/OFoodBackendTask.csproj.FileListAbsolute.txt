@@ -1,0 +1,64 @@
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/appsettings.Development.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/appsettings.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/OFoodBackendTask
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/OFoodBackendTask.deps.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/OFoodBackendTask.runtimeconfig.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/OFoodBackendTask.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/OFoodBackendTask.pdb
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/MySqlConnector.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.csproj.AssemblyReference.cache
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.AssemblyInfoInputs.cache
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.AssemblyInfo.cs
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.csproj.CoreCompileInputs.cache
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.MvcApplicationPartsAssemblyInfo.cache
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets/msbuild.OFoodBackendTask.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets/msbuild.build.OFoodBackendTask.props
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.OFoodBackendTask.props
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.OFoodBackendTask.props
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets.build.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/staticwebassets.development.json
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/scopedcss/bundle/OFoodBackendTask.styles.css
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.csproj.CopyComplete
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/refint/OFoodBackendTask.dll
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.pdb
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/OFoodBackendTask.genruntimeconfig.cache
+/Users/amirrezamohammadi/Projects/OFoodBackendTask/OFoodBackendTask/obj/Debug/net7.0/ref/OFoodBackendTask.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\OFoodBackendTask.exe
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\OFoodBackendTask.deps.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\OFoodBackendTask.runtimeconfig.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\OFoodBackendTask.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\OFoodBackendTask.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets\msbuild.OFoodBackendTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets\msbuild.build.OFoodBackendTask.props
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OFoodBackendTask.props
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OFoodBackendTask.props
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\scopedcss\bundle\OFoodBackendTask.styles.css
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\refint\OFoodBackendTask.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\OFoodBackendTask.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\OFoodBackendTask\OFoodBackendTask\obj\Debug\net7.0\ref\OFoodBackendTask.dll
